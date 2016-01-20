@@ -13,5 +13,5 @@ For each kernel verion two files are available:
 
 -- 2016-01-20 -----------------------------------------------
 
-Kernel (zImage): vexpress-debian-3.16.7-ckt20-1+deb8u3-zImage                       
-VE A15 dtb:      vexpress-v2p-ca15-tc1.dtb
+|Kernel (zImage)|vexpress-debian-3.16.7-ckt20-1+deb8u3-zImage|
+|VE A15 dtb|vexpress-v2p-ca15-tc1.dtb|
