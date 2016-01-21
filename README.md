@@ -3,7 +3,7 @@ Linux kernels for Versatile Express A15 virtual hardware running as KVM virtual 
 
 The kernels are built from Debian 8 Jessie kernel sources, see https://packages.debian.org/jessie/linux-source-3.16 .
 
-For running als KVM VM on Cubietruck the kernels are compiled with following changes related to default settings:
+For running as KVM VM on Cubietruck the kernels are compiled with these changes:
 
 - General setup => Configure standard kernel features (expert users)
 - General setup => open by fhandle syscalls
