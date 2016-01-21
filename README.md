@@ -14,7 +14,6 @@ For each kernel verion two files are available:
 - Kernel (zImage)
 - VE A15 dtb file
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
