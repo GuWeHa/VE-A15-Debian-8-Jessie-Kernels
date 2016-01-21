@@ -11,7 +11,7 @@ For running as KVM VM on Cubietruck the kernels are compiled with these changes:
 | General setup          | open by fhandle syscalls                          |
 | Enable the block layer | Support for large (2TB+) block devices and files  |
 
-For each kernel version two files are available:
+There are two files are available for each kernel version:
 
 - Kernel (zImage)
 - VE A15 dtb file
