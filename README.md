@@ -14,4 +14,6 @@ For each kernel verion two files are available:
 - Kernel (zImage)
 - VE A15 dtb file
 
+c|d
+-|-
 a|b
