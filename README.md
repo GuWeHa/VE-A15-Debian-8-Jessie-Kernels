@@ -15,7 +15,7 @@ For each kernel verion two files are available:
 - VE A15 dtb file
 
 | menu item              | enabled kernel feature                            |
-| ---------------------- | ------------------------------------------------- |
+| :--------------------- | :------------------------------------------------ |
 | General setup          | Configure standard kernel features (expert users) |
 | General setup          | open by fhandle syscalls                          |
 | Enable the block layer | Support for large (2TB+) block devices and files  |
