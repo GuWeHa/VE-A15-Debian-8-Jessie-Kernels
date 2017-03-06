@@ -13,7 +13,8 @@ For running as KVM VM on Cubietruck the kernels are compiled with the following 
 
 There are two files available for each kernel version:
 
-| file                                         | purpose                                                    |
-| :------------------------------------------- | :--------------------------------------------------------- |
-| vexpress-debian-3.16.7-ckt..-.+deb8u.-zImage | zImage (Kernel)                                            |
-| vexpress-v2p-ca15-tc1.dtb                    | hardware specific (Versatile Express A15) device tree blob |
+| file                                             | purpose                                                    |
+| :----------------------------------------------- | :--------------------------------------------------------- |
+| vexpress-debian-3.16.39-1+deb8u1-zImage          | zImage (Kernel)                                            |
+| vexpress-debian-3.16.7-ckt20-1+deb8u[3|4]-zImage | zImage (Kernel)                                            |
+| vexpress-v2p-ca15-tc1.dtb                        | hardware specific (Versatile Express A15) device tree blob |

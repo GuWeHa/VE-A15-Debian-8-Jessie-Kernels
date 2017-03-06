@@ -1,24 +1,21 @@
 --- MD5 ------------------------------------------------------------------------------------------------------
 
+e608986afdd07417a4f9532b974ea0ed  vexpress-debian-3.16.39-1+deb8u1-zImage
+d739fa8b93f6309968c76a2e7ad50aac  vexpress-v2p-ca15-tc1.dtb
+
 87ac401f4b73fed4754fc79c8178d844  vexpress-debian-3.16.7-ckt20-1+deb8u4-zImage
 d739fa8b93f6309968c76a2e7ad50aac  vexpress-v2p-ca15-tc1.dtb
 
 fb7ed9081848d504e8541362b46197f1  vexpress-debian-3.16.7-ckt20-1+deb8u3-zImage
 d739fa8b93f6309968c76a2e7ad50aac  vexpress-v2p-ca15-tc1.dtb
 
---- SHA1 -----------------------------------------------------------------------------------------------------
-
-5402401ae1b3b900cd73d3e213e38ce51893fa63  vexpress-debian-3.16.7-ckt20-1+deb8u4-zImage
-7503cb5c02d8010f34d6496ae7756cdbde2b2561  vexpress-v2p-ca15-tc1.dtb
-
-b72d3e3cbb87afaf9da0d5fb9abaf7f2c7758021  vexpress-debian-3.16.7-ckt20-1+deb8u3-zImage
-7503cb5c02d8010f34d6496ae7756cdbde2b2561  vexpress-v2p-ca15-tc1.dtb
-
 --- SHA256 ---------------------------------------------------------------------------------------------------
+
+ce5726e5c9fe5048bd5b7259a8420de33c31ca05fcd350d15a483a1df4f39114  vexpress-debian-3.16.39-1+deb8u1-zImage
+65fe5ff67e8921875ccdc460dadbf4e2b78e8be3f8c40fd96534b3672c5940fc  vexpress-v2p-ca15-tc1.dtb
 
 93d160860d72ff70a8def1450acf12d70bbafaac53cf11720eabb600b7cb4dca  vexpress-debian-3.16.7-ckt20-1+deb8u4-zImage
 65fe5ff67e8921875ccdc460dadbf4e2b78e8be3f8c40fd96534b3672c5940fc  vexpress-v2p-ca15-tc1.dtb
 
 f2627a734e533618de03d7d927f53b8e780d59ac3190353efdc7ccf155236942  vexpress-debian-3.16.7-ckt20-1+deb8u3-zImage
 65fe5ff67e8921875ccdc460dadbf4e2b78e8be3f8c40fd96534b3672c5940fc  vexpress-v2p-ca15-tc1.dtb
-
