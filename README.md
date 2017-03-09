@@ -22,5 +22,3 @@ There are two files available for each kernel version:
 | vexpress-v2p-ca15-tc1.dtb                    | hardware specific (Versatile Express A15) device tree blob |
 
 Have fun!
-
-#GH Do 9. Mar 10:40:51 CET 2017
